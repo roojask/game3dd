@@ -1,0 +1,45 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757917574
+default_bus_layout.tres::AudioBusLayout/AudioBusLayout::-1::1757579877::0::1::::<><><>0<>0<><>::
+default_env.tres::Environment/Environment::-1::1757579877::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1757917574::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D/CompressedTexture2D::5818898472691630559::1757579803::1757870402::1::::<><><>0<>0<>83eccf11f14f512408bcbe58b02999a7<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::5076474758084536757::1757917568::1757870749::1::::<><><>0<>0<>663ad0149ad847ed9856419aa856bf1c<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D/CompressedTexture2D::4884539290475956414::1757917568::1757870749::1::::<><><>0<>0<>888d990c57f4b790e15b5db7ed611fe8<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D/CompressedTexture2D::5633355893289086843::1757917568::1757870402::1::::<><><>0<>0<>a856bc37eea64e1cbba71a248535eaeb<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
+main.gd::GDScript/GDScript::9099291914090062020::1757610397::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene/PackedScene::8001309851706461550::1757914990::0::1::::<><><>0<>0<><>::uid://d2v1ajyhy3ufk::::res://main.gd<>uid://bd1akdxmb7s71::::res://player.tscn<>uid://ynhyosxbom5o::::res://Mob.tscn<>uid://ntohkdowugey::::res://fonts/Montserrat-Medium.ttf<>uid://bi8yib2a8vwbc::::res://ScoreLabel.gd<>uid://d0nnwnlrhf0aa::::res://art/Big Tree.glb<>uid://1iipkvb6124a::::res://art/Floor Grass Sliced B.glb<>uid://dbmh31ioow2n1::::res://art/Pine.glb
+Mob.gd::GDScript/GDScript::5964521524852542386::1757609276::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Mob.tscn::PackedScene/PackedScene::1711837800298934810::1757914990::0::1::::<><><>0<>0<><>::uid://cq8i2euafc6ru::::res://Mob.gd<>uid://sh7yvu3igs4w::::res://art/mob.glb<>uid://elwgsd4cok61::::res://art/Dingus the cat.glb
+music_player.tscn::PackedScene/PackedScene::693001148620765161::1757914990::0::1::::<><><>0<>0<><>::uid://ctawsefo06qm2::::res://art/House In a Forest Loop.ogg
+Player.gd::GDScript/GDScript::2483049080264015453::1757609276::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene/PackedScene::2650679087800194418::1757914990::0::1::::<><><>0<>0<><>::uid://bbm2pqv44ar4p::::res://Player.gd<>uid://db8207ona8pj8::::res://art/player.glb<>uid://d2hboun3hoat5::::res://art/Wizardus Maximus.glb
+ScoreLabel.gd::GDScript/GDScript::3017527487136986356::1757609353::0::1::::<>Label<><>0<>0<><>::
+::res://art/::1757916855
+Big Tree.glb::PackedScene/PackedScene::8941649361783144028::1757864629::1757864631::1::::<><><>0<>0<>66211b2794b38aaaa61c50b3654c9558<>res://.godot/imported/Big Tree.glb-61d88c6699a68a6ca3582c2da22bcd22.scn::
+body.material::StandardMaterial3D/StandardMaterial3D::-1::1757579803::0::1::::<><><>0<>0<><>::
+Dingus the cat.glb::PackedScene/PackedScene::304810969826657360::1757864629::1757862310::1::::<><><>0<>0<>c76bb8b53f178eb558b95deb079b0cef<>res://.godot/imported/Dingus the cat.glb-b3093f0fd00e88245069118c3bc4f83a.scn::uid://cti7m3lygyqxu::::res://art/Dingus the cat_Maxwell.jpg<>uid://dv65cxo2c3o5l::::res://art/Dingus the cat_whiskers.png
+Dingus the cat_Maxwell.jpg::CompressedTexture2D/CompressedTexture2D::6124910280582764610::1757862309::1757862311::1::::<><><>0<>0<>9b840b216c25aeaf95474011e5d279e3<>res://.godot/imported/Dingus the cat_Maxwell.jpg-e543a4fc6122c05acfad495958b547b9.s3tc.ctex::
+Dingus the cat_whiskers.png::CompressedTexture2D/CompressedTexture2D::8699049790119501983::1757862309::1757862311::1::::<><><>0<>0<>294938cb6c6b893ef0b59f1c89e0af06<>res://.godot/imported/Dingus the cat_whiskers.png-5fb6f81653f1d82f2ee08b34e4f8b31c.s3tc.ctex::
+eye.material::StandardMaterial3D/StandardMaterial3D::-1::1757579803::0::1::::<><><>0<>0<><>::
+Floor Grass Sliced B.glb::PackedScene/PackedScene::1841938037234335462::1757864772::1757864773::1::::<><><>0<>0<>7eece12b03f2b451f84641ca0c9ce0bd<>res://.godot/imported/Floor Grass Sliced B.glb-19cbf1ecef2bdd589283239df37dba30.scn::uid://dg2uuwrqr0l4u::::res://art/Floor Grass Sliced B_tiny_treats_grass_texture.png
+Floor Grass Sliced B_tiny_treats_grass_texture.png::CompressedTexture2D/CompressedTexture2D::7637384550526597682::1757864773::1757864774::1::::<><><>0<>0<>ed26616ca400fd92deb946323058d41d<>res://.godot/imported/Floor Grass Sliced B_tiny_treats_grass_texture.png-2c21d5b313941e43e55b0db5e5bb0ab0.s3tc.ctex::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6107797533128132091::1757579803::1757579882::1::::<><><>0<>0<>8fc2ceed97789310703f6158c66959b8<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene/PackedScene::1279836767754827240::1757579803::1757579883::1::::<><><>0<>0<>060e808cb6eecc435a81d0206f8331bc<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.material::StandardMaterial3D/StandardMaterial3D::-1::1757579803::0::1::::<><><>0<>0<><>::
+mob_eye.material::StandardMaterial3D/StandardMaterial3D::-1::1757579803::0::1::::<><><>0<>0<><>::
+Pine.glb::PackedScene/PackedScene::7254699827565995280::1757865206::1757865208::1::::<><><>0<>0<>ff84a511981c3a2edf6ae2952209b234<>res://.godot/imported/Pine.glb-6e178a2f92ac5c1e4a7d4dc743f780cf.scn::uid://bpf5bu3oe1upt::::res://art/Pine_Bark_NormalTree.png<>uid://c2xws0uqiyl1s::::res://art/Pine_Bark_NormalTree_Normal.png<>uid://esf3hb2i5dig::::res://art/Pine_Leaf_Pine_C.png
+Pine_Bark_NormalTree.png::CompressedTexture2D/CompressedTexture2D::3451399616974797873::1757865207::1757865209::1::::<><><>0<>0<>56f5a4c7954f221d7986ebb3f991dc18<>res://.godot/imported/Pine_Bark_NormalTree.png-4af4c2cf8a9b46382254f692d3c91a1b.s3tc.ctex::
+Pine_Bark_NormalTree_Normal.png::CompressedTexture2D/CompressedTexture2D::6716790096806057970::1757865206::1757865209::1::::<><><>0<>0<>6b7711e76c8bb7b18853388ecc59ec60<>res://.godot/imported/Pine_Bark_NormalTree_Normal.png-c7a98d32f88c0e2b543e8d31b1e5d27e.s3tc.ctex::
+Pine_Leaf_Pine_C.png::CompressedTexture2D/CompressedTexture2D::318268131765260338::1757865207::1757865209::1::::<><><>0<>0<>e4de7928ab32e20a7312314bfc6524cb<>res://.godot/imported/Pine_Leaf_Pine_C.png-190b33bc73a66d1f893bb67da5da3cb7.s3tc.ctex::
+player.glb::PackedScene/PackedScene::7299261067220066743::1757579803::1757579883::1::::<><><>0<>0<>3c0f4d338dcd55abd4f3295d32ce4426<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.material::StandardMaterial3D/StandardMaterial3D::-1::1757579803::0::1::::<><><>0<>0<><>::
+Wizardus Maximus.glb::PackedScene/PackedScene::9068898263523588420::1757862309::1757862310::1::::<><><>0<>0<>2d9b8a2048411fddd72d89c0234b40b0<>res://.godot/imported/Wizardus Maximus.glb-98257ce5627c69cf9a0f9c8bc54b4211.scn::uid://cmqwt6iupui5j::::res://art/Wizardus Maximus_56x56texture.png
+Wizardus Maximus_56x56texture.png::CompressedTexture2D/CompressedTexture2D::5649508880544442037::1757862310::1757862311::1::::<><><>0<>0<>17f66aba7c390d7f724271bc0eabae25<>res://.godot/imported/Wizardus Maximus_56x56texture.png-4ff0a8b5a88a5e9cf50d0bb76107f8b5.s3tc.ctex::
+::res://docs/::1757917574
+index.apple-touch-icon.png::CompressedTexture2D::542937264854334906::1757917574::1757917596::1::::<><><>0<>0<>14f122d2fc359c47f9afd2dacbab90cf<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::8479252913485391259::1757917574::1757917596::1::::<><><>0<>0<>73d13d5fe21d17467b8a8b70f8dee909<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::3893919651681345755::1757917574::1757917596::1::::<><><>0<>0<>8e1dcede1dcedda67a6ea69ec772b0d7<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://fonts/::1757916855
+LICENSE.txt::TextFile/TextFile::-1::1757579803::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile/FontFile::952541213611824696::1757579803::1757579882::1::::<><><>0<>0<>e61fc84034736639605cf9d4529b4447<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
