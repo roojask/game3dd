@@ -5,7 +5,7 @@
 [ext_resource type="PackedScene" uid="uid://ynhyosxbom5o" path="res://Mob.tscn" id="2_1bvp3"]
 [ext_resource type="FontFile" uid="uid://ntohkdowugey" path="res://fonts/Montserrat-Medium.ttf" id="4_lquwl"]
 [ext_resource type="Script" uid="uid://bi8yib2a8vwbc" path="res://ScoreLabel.gd" id="5_7mycd"]
-[ext_resource type="FontFile" uid="uid://dphnooqh24b4o" path="res://fonts/Kanit-LightItalic.ttf" id="5_kek77"]
+[ext_resource type="FontFile" uid="uid://cnm6yu72ddens" path="res://Kanit-Light.ttf" id="5_kek77"]
 [ext_resource type="PackedScene" uid="uid://d0nnwnlrhf0aa" path="res://art/Big Tree.glb" id="6_272bh"]
 [ext_resource type="PackedScene" uid="uid://1iipkvb6124a" path="res://art/Floor Grass Sliced B.glb" id="7_5vw27"]
 [ext_resource type="PackedScene" uid="uid://dbmh31ioow2n1" path="res://art/Pine.glb" id="8_5vw27"]

@@ -1,13 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757926218
+::res://::1757926648
 default_bus_layout.tres::AudioBusLayout/AudioBusLayout::-1::1757579877::0::1::::<><><>0<>0<><>::
 default_env.tres::Environment/Environment::-1::1757579877::0::1::::<><><>0<>0<><>::
-export_presets.cfg::TextFile::-1::1757926218::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1757926268::0::1::::<><><>0<>0<><>::
 icon.png::CompressedTexture2D/CompressedTexture2D::5818898472691630559::1757579803::1757870402::1::::<><><>0<>0<>83eccf11f14f512408bcbe58b02999a7<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
 index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::4505979757068453394::1757917568::1757926203::1::::<><><>0<>0<>95afef6c4894f6c3da0948dce8b5e9fe<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
 index.icon.png::CompressedTexture2D/CompressedTexture2D::3743304928727186685::1757917568::1757926203::1::::<><><>0<>0<>cf068ccd66bb9ee01b29ea6bd1a928af<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
 index.png::CompressedTexture2D/CompressedTexture2D::2987288159472624606::1757917568::1757926203::1::::<><><>0<>0<>26446a5b1817b39562b1bcee92691f92<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
-Kanit-Light.ttf::FontFile::5711995054690450948::1757925113::1757925114::1::::<><><>0<>0<>a49b12ecf47ec59bde1526c1a3382231<>res://.godot/imported/Kanit-Light.ttf-5eef63d9ed7e367b17ea97c894f82599.fontdata::
+Kanit-Light.ttf::FontFile/FontFile::5711995054690450948::1757925113::1757925114::1::::<><><>0<>0<>a49b12ecf47ec59bde1526c1a3382231<>res://.godot/imported/Kanit-Light.ttf-5eef63d9ed7e367b17ea97c894f82599.fontdata::
 main.gd::GDScript/GDScript::9099291914090062020::1757610397::0::1::::<>Node<><>0<>0<><>::
 main.tscn::PackedScene::8001309851706461550::1757926162::0::1::::<><><>0<>0<><>::uid://d2v1ajyhy3ufk::::res://main.gd<>uid://bd1akdxmb7s71::::res://player.tscn<>uid://ynhyosxbom5o::::res://Mob.tscn<>uid://ntohkdowugey::::res://fonts/Montserrat-Medium.ttf<>uid://bi8yib2a8vwbc::::res://ScoreLabel.gd<>uid://dphnooqh24b4o::::res://fonts/Kanit-LightItalic.ttf<>uid://d0nnwnlrhf0aa::::res://art/Big Tree.glb<>uid://1iipkvb6124a::::res://art/Floor Grass Sliced B.glb<>uid://dbmh31ioow2n1::::res://art/Pine.glb
 Mob.gd::GDScript/GDScript::5964521524852542386::1757609276::0::1::::<>CharacterBody3D<><>0<>0<><>::
@@ -37,11 +37,8 @@ player.glb::PackedScene/PackedScene::7299261067220066743::1757579803::1757579883
 pupil.material::StandardMaterial3D/StandardMaterial3D::-1::1757579803::0::1::::<><><>0<>0<><>::
 Wizardus Maximus.glb::PackedScene/PackedScene::9068898263523588420::1757862309::1757862310::1::::<><><>0<>0<>2d9b8a2048411fddd72d89c0234b40b0<>res://.godot/imported/Wizardus Maximus.glb-98257ce5627c69cf9a0f9c8bc54b4211.scn::uid://cmqwt6iupui5j::::res://art/Wizardus Maximus_56x56texture.png
 Wizardus Maximus_56x56texture.png::CompressedTexture2D/CompressedTexture2D::5649508880544442037::1757862310::1757862311::1::::<><><>0<>0<>17f66aba7c390d7f724271bc0eabae25<>res://.godot/imported/Wizardus Maximus_56x56texture.png-4ff0a8b5a88a5e9cf50d0bb76107f8b5.s3tc.ctex::
-::res://docs/::1757926217
-index.apple-touch-icon.png::CompressedTexture2D::8086976897931980175::1757926217::1757926254::1::::<><><>0<>0<>4b24b254a08d35fec16aadaafcd700e6<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
-index.icon.png::CompressedTexture2D::408420370900870046::1757926217::1757926254::1::::<><><>0<>0<>3e661db033002a7d5e2cbdfd4c2d52db<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
-index.png::CompressedTexture2D::3879562887454403193::1757926217::1757926254::1::::<><><>0<>0<>fdef23f10b75de459827d0950ce3ec46<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://docs/::1757926376
 ::res://fonts/::1757925138
-Kanit-LightItalic.ttf::FontFile::8227360432347883620::1757925137::1757925138::1::::<><><>0<>0<>84b7cedce197c32a20f4d71712e405b5<>res://.godot/imported/Kanit-LightItalic.ttf-acdaa14928ecff5311be319ee856a645.fontdata::
+Kanit-LightItalic.ttf::FontFile/FontFile::8227360432347883620::1757925137::1757925138::1::::<><><>0<>0<>84b7cedce197c32a20f4d71712e405b5<>res://.godot/imported/Kanit-LightItalic.ttf-acdaa14928ecff5311be319ee856a645.fontdata::
 LICENSE.txt::TextFile/TextFile::-1::1757579803::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::952541213611824696::1757579803::1757579882::1::::<><><>0<>0<>e61fc84034736639605cf9d4529b4447<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
