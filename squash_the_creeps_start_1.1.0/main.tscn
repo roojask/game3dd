@@ -1,10 +1,11 @@
-[gd_scene load_steps=15 format=3 uid="uid://dl85n0kx8ec0e"]
+[gd_scene load_steps=16 format=3 uid="uid://dl85n0kx8ec0e"]
 
 [ext_resource type="Script" uid="uid://d2v1ajyhy3ufk" path="res://main.gd" id="1_h2yge"]
 [ext_resource type="PackedScene" uid="uid://bd1akdxmb7s71" path="res://player.tscn" id="1_ig7tw"]
 [ext_resource type="PackedScene" uid="uid://ynhyosxbom5o" path="res://Mob.tscn" id="2_1bvp3"]
 [ext_resource type="FontFile" uid="uid://ntohkdowugey" path="res://fonts/Montserrat-Medium.ttf" id="4_lquwl"]
 [ext_resource type="Script" uid="uid://bi8yib2a8vwbc" path="res://ScoreLabel.gd" id="5_7mycd"]
+[ext_resource type="FontFile" uid="uid://dphnooqh24b4o" path="res://fonts/Kanit-LightItalic.ttf" id="5_kek77"]
 [ext_resource type="PackedScene" uid="uid://d0nnwnlrhf0aa" path="res://art/Big Tree.glb" id="6_272bh"]
 [ext_resource type="PackedScene" uid="uid://1iipkvb6124a" path="res://art/Floor Grass Sliced B.glb" id="7_5vw27"]
 [ext_resource type="PackedScene" uid="uid://dbmh31ioow2n1" path="res://art/Pine.glb" id="8_5vw27"]
@@ -104,6 +105,7 @@ offset_top = 25.0
 offset_right = 87.0
 offset_bottom = 48.0
 theme_override_colors/font_color = Color(0.839216, 0.0196078, 0, 1)
+theme_override_fonts/font = ExtResource("5_kek77")
 text = "Score: 0"
 script = ExtResource("5_7mycd")
 
@@ -134,6 +136,7 @@ offset_bottom = 15.0
 grow_horizontal = 2
 grow_vertical = 2
 theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_kek77")
 text = "กด Enter เพื่อลองใหม่"
 
 [node name="Label" type="Label" parent="UserInterface"]
@@ -142,6 +145,7 @@ offset_left = 4.0
 offset_top = 507.0
 offset_right = 330.0
 offset_bottom = 537.0
+theme_override_fonts/font = ExtResource("5_kek77")
 text = "663380271-2 นายธนินท์รัฐ โลหะสาร"
 
 [node name="Big Tree" parent="." instance=ExtResource("6_272bh")]
